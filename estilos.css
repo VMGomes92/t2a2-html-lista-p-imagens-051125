@@ -1,0 +1,20 @@
+body {
+    color: white;
+    background-color: rgb(41, 40, 40) ;
+    margin: 0;
+    font-family: inter, sans-serif;
+}
+
+h3 {
+    color: #df126b;
+    font-size: 16px;
+}
+
+header {
+    box-sizing: border-box;
+    width: 100%; /** largura > unidade relativa*/
+    padding: 20px;
+    background-color: #202024;
+    margin-bottom: 92px;
+
+}
